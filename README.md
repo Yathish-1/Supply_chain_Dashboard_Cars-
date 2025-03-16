@@ -53,7 +53,7 @@ This Power BI project analyzes key business insights using an interactive Supply
 
 ## 👤 **Author**  
 - **Yathish G S**  
--[GitHub Profile](https://github.com/Yathish-1/Supply_chain_Dashboard_Cars)*  
+*(https://github.com/Yathish-1/Supply_chain_Dashboard_Cars)*  
 
 ---
 
