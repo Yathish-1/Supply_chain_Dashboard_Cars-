@@ -15,18 +15,18 @@ This Power BI project analyzes key business insights using an interactive Supply
 - **Data Modeling**
 - **Data Visualization**
 
-## 📂 Dataset Information
-- **Source**: [Car_SupplyChainManagementDataSet.csv]  
+## Dataset Information
+- **Source**:(https://www.kaggle.com/datasets/prashantk93/supply-chain-management-for-car?select=Car_SupplyChainManagementDataSet.csv)
 - **Size**: (33 column and 1000 rows)
 
 
-## 📌 How to Use
+##  How to Use
 1. Download the `.pbix` file.  
 2. Open it in **Power BI Desktop**.  
 3. Refresh the data to see updated insights.  
 
-## 👤 Author
+##  Author
 - **Yathish G S** – [GitHub Profile](https://github.com/Yathish-1/Supply_chain_Dashboard_Cars)
 
-## ⚖️ License
+##  License
 This project is licensed under the MIT License.
